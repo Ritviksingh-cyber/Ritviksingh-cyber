@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
 <h3 align="center">Associate Technical Consultant | AI • Data Privacy • Compliance</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritviksingh-cyber&color=blue" />
-</p>
 
 
 
