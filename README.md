@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ritviksingh-cyber&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritviksingh-cyber&theme=tokyonight)
 
 
 ## 📫 Connect With Me
