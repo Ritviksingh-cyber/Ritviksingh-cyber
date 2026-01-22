@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjIxZjV6N3g1em4wNDdnYTQ5NGl3bHVnYm9qMGIxcnVyNnJwMzF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="50%" alt="Animated tech banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJkcGgzdWhwZzlmejAwa2l0MTExeTVmMG55aGxrYWYxYjV1ZDJjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" width="50%" alt="Animated tech banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
@@ -40,6 +40,13 @@
 - 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/
 
 <img align="right" src="(https://pinterest.com/ideas/transparent-pixel-icons/900503924234)" width="250"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Responsible+AI;Privacy+by+Design;Learning.+Building.+Improving." />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXAwOWpla3kwcGJsZDRlbzF5N2lobTZwMnFoMzdldmIwMGo3NmpxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/go3pCPP4899Jd3xb4p/giphy.gif" width="10%" alt="Animated tech banner"/>
+</p>
 
 
 
