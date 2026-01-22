@@ -34,7 +34,7 @@
 - 💼 LinkedIn: linkedin.com/in/ritvik-singh-94581a204 
 - 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/
 
-<img align="right" src="IMAGE_URL" width="250"/>
+<img align="right" src="[IMAGE_URL](https://pinterest.com/ideas/transparent-pixel-icons/900503924234)" width="250"/>
 
 
 
