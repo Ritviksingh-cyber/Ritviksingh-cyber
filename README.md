@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750255-5e1a1f6f-8f44-4c64-bc38-3f9a8d1f5e7b.gif" width="100%" />
+  <img src="https://tenor.com/bEWOmxlO6Qw.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
@@ -7,7 +7,6 @@
 
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
 ## 👨‍💻 About Me
 
 - 🔍 Associate Technical Consultant with interest in AI, data privacy & compliance  
