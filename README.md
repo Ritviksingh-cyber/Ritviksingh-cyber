@@ -6,7 +6,7 @@
 <h3 align="center">Associate Technical Consultant | AI • Data Privacy • Compliance</h3>
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://tenor.com/bEWOmxlO6Qw.gif" width="300"/>
 ## 👨‍💻 About Me
 
 - 🔍 Associate Technical Consultant with interest in AI, data privacy & compliance  
