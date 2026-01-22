@@ -26,14 +26,13 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ritviksingh-cyber&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritviksingh-cyber&theme=tokyonight)
 
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourwebsite.com  
+- 📧 Email: singhritvik57@gmail.com.com  
+- 💼 LinkedIn: linkedin.com/in/ritvik-singh-94581a204 
+- 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/ 
 
 
 <!--
