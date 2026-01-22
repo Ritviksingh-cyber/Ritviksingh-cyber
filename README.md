@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/bEWOmxlO6Qw.gif" width="100%" />
+  <imag align="right" src="https://tenor.com/bEWOmxlO6Qw.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
