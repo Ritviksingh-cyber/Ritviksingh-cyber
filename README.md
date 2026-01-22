@@ -32,7 +32,10 @@
 
 - 📧 Email: singhritvik57@gmail.com.com  
 - 💼 LinkedIn: linkedin.com/in/ritvik-singh-94581a204 
-- 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/ 
+- 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/
+
+<img align="right" src="IMAGE_URL" width="250"/>
+
 
 
 <!--
