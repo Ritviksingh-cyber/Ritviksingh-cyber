@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750255-5e1a1f6f-8f44-4c64-bc38-3f9a8d1f5e7b.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
 <h3 align="center">Associate Technical Consultant | AI • Data Privacy • Compliance</h3>
 <p align="center">
