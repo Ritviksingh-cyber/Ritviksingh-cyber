@@ -15,9 +15,6 @@
 - 🚀 Actively learning and building in fast-paced environments
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-</p>
 
 ## 🧰 Tech Stack
 
@@ -32,6 +29,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ritviksingh-cyber&show_icons=true&theme=tokyonight)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ## 📫 Connect With Me
 
