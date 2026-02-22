@@ -29,19 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritviksingh-cyber&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritviksingh-cyber&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritviksingh-cyber&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <img src="https://streak-stats.demolab.com?user=Ritviksingh-cyber&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
