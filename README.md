@@ -41,7 +41,7 @@
 <img align="right" src="(https://pinterest.com/ideas/transparent-pixel-icons/900503924234)" width="250"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Responsible+AI;Privacy+by+Design;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building;Learning;Improving;Welcome+to+my+little+lorebook;Its+nice+to+have+you+here;Namaste" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXAwOWpla3kwcGJsZDRlbzF5N2lobTZwMnFoMzdldmIwMGo3NmpxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/go3pCPP4899Jd3xb4p/giphy.gif" width="10%" alt="Animated tech banner"/>
