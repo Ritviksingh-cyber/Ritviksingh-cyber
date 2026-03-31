@@ -26,10 +26,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritviksingh-cyber&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Ritviksingh-cyber/Ritviksingh-cyber/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📫 Connect With Me
