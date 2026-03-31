@@ -14,7 +14,11 @@
 - ⚙️ Comfortable translating business and regulatory requirements into technical solutions  
 - 🚀 Actively learning and building in fast-paced environments
 
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritviksingh-cyber/Ritviksingh-cyber/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🧰 Tech Stack
 
@@ -26,7 +30,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritviksingh-cyber&theme=github_dark)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" />
+</p>
+
+
+| 🚀 Focus Areas | 🛠️ Currently Working On |
+|---------------|------------------------|
+| 🚀 Production-grade AI systems | 🔧 Building LLM-based applications with structured prompting |
+| ⚖️ AI + Data Privacy + Compliance | 🔐 Designing secure AI workflows & data handling pipelines |
+| 🧩 End-to-end ML pipelines (training → deployment) | ⚙️ Developing full-stack AI systems (Angular + Django + APIs) |
+| 📉 Reducing latency & improving model accuracy | 📊 Optimizing F1-score, latency, and model reliability |
+| 🧠 Advanced AI reasoning systems | 📘 Working on a **multi-modal RAG system for complex technical manuals (270+ pages, cross-referenced content, diagrams, tables)** |
 
 ## 📫 Connect With Me
 
@@ -37,22 +54,8 @@
 <img align="right" src="(https://pinterest.com/ideas/transparent-pixel-icons/900503924234)" width="250"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building;Learning;Improving;Welcome+to+my+little+lorebook;Its+nice+to+have+you+here;Namaste" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+Systems;Designing+LLM+Pipelines;Optimizing+for+Scale;Working+Real+Projects;Namaste" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00FFB2&center=true&vCenter=true&width=600&lines=Designing+Intelligent+Systems;Building+AI+that+Matters;Optimizing+for+Scale+and+Performance;Always+Learning+Always+Shipping" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" />
-</p>
-
-## 📈 What I'm Focused On
-
-- 🚀 Production-grade AI systems  
-- ⚖️ AI + Data Privacy + Compliance intersection  
-- 🧩 End-to-end ML pipelines (training → deployment)  
-- 📉 Reducing latency & improving model accuracy  
