@@ -26,11 +26,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviksingh-cyber/Ritviksingh-cyber/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritviksingh-cyber&theme=github-dark)
 
 ## 📫 Connect With Me
 
