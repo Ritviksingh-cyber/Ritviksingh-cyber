@@ -29,7 +29,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviksingh-cyber/Ritviksingh-cyber/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ritviksingh-cyber/Ritviksingh-cyber/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 📫 Connect With Me
