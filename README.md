@@ -24,12 +24,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
 
 
 <p align="center">
@@ -45,9 +45,18 @@
 | 📉 Reducing latency & improving model accuracy | 📊 Optimizing F1-score, latency, and model reliability |
 | 🧠 Advanced AI reasoning systems | 📘 Working on a **multi-modal RAG system for complex technical manuals (270+ pages, cross-referenced content, diagrams, tables)** |
 
+
+## 🚧 Currently Working On
+
+- 🤖 Building an **Automatic Job Search & Application Portal**  
+  - Scrapes and aggregates job listings from multiple platforms  
+  - Matches roles based on skills, experience, and preferences  
+  - Automates application workflows with customizable filters  
+  - Focused on reducing manual effort and improving job search efficiency  
+
 ## 📫 Connect With Me
 
-- 📧 Email: singhritvik57@gmail.com.com  
+- 📧 Email: singhritvik57@gmail.com 
 - 💼 LinkedIn: linkedin.com/in/ritvik-singh-94581a204 
 - 🌐 Portfolio: ritvik-singh-ai-consulta-edi74nc.gamma.site/
 
