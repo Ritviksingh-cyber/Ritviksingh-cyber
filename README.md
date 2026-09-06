@@ -2,17 +2,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJkcGgzdWhwZzlmejAwa2l0MTExeTVmMG55aGxrYWYxYjV1ZDJjMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" width="50%" alt="Animated tech banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ritvik Singh</h1>
-<h3 align="center">Associate Technical Consultant | AI • Data Privacy • Compliance</h3>
-
-
-<img align="right" src="https://tenor.com/bEWOmxlO6Qw.gif" width="300"/>
+# Hi 👋, I'm Ritvik Singh
+ 
+### Full-Stack Developer | JavaScript/TypeScript · C#/.NET · Angular | AI Integration
+ 
 ## 👨‍💻 About Me
 - 🛠️ Full-stack developer (2+ yrs) — REST APIs on C#/.NET, production Angular UIs, real-time apps on Firebase
 - 🤖 Building and integrating AI/ML systems — from offline model pipelines to live API-driven features
 - ⚡ Comfortable owning a feature end-to-end: idea → build → deploy → production, independently
-- 📚 Currently expanding into C#, Firebase Cloud Functions, and PWA architecture 
-- 🚀 Actively learning and building in fast-paced environments
+- 📚 Currently expanding into C#, Firebase Cloud Functions, and PWA architecture
 
 ## 🐍 Contribution Graph
 
