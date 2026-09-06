@@ -8,10 +8,10 @@
 
 <img align="right" src="https://tenor.com/bEWOmxlO6Qw.gif" width="300"/>
 ## 👨‍💻 About Me
-
-- 🔍 Associate Technical Consultant with interest in AI, data privacy & compliance  
-- 🔐 Experience with secure data handling, consent management & DSR workflows  
-- ⚙️ Comfortable translating business and regulatory requirements into technical solutions  
+- 🛠️ Full-stack developer (2+ yrs) — REST APIs on C#/.NET, production Angular UIs, real-time apps on Firebase
+- 🤖 Building and integrating AI/ML systems — from offline model pipelines to live API-driven features
+- ⚡ Comfortable owning a feature end-to-end: idea → build → deploy → production, independently
+- 📚 Currently expanding into C#, Firebase Cloud Functions, and PWA architecture 
 - 🚀 Actively learning and building in fast-paced environments
 
 ## 🐍 Contribution Graph
